@@ -1,0 +1,26 @@
+{
+ "generated": "2026-09-20T03:30:02+00:00",
+ "run": "2026-09-19",
+ "counts": {
+  "modeled": 8,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "4667838",
+   "question": "Will the highest temperature in Hong Kong be 33\u00b0C on September 20?",
+   "city": "hong kong",
+   "target_date": "2026-09-20",
+   "market": "90.5-92.3F",
+   "side": "NO",
+   "market_price": 0.555,
+   "model_prob": 0.0574,
+   "edge": 0.4976,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 0.8,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  }
+ ]
+}
