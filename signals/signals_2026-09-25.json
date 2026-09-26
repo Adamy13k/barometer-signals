@@ -1,0 +1,101 @@
+{
+ "generated": "2026-09-26T03:30:01+00:00",
+ "run": "2026-09-25",
+ "counts": {
+  "modeled": 73,
+  "taken": 2,
+  "signals_untaken": 4
+ },
+ "signals": [
+  {
+   "market_id": "4906385",
+   "question": "Will the highest temperature in Buenos Aires be 23\u00b0C on September 26?",
+   "city": "buenos aires",
+   "target_date": "2026-09-26",
+   "market": "72.5-74.3F",
+   "side": "NO",
+   "market_price": 0.345,
+   "model_prob": 0.0738,
+   "edge": 0.2712,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 2.96,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  },
+  {
+   "market_id": "4900717",
+   "question": "Will the highest temperature in Taipei be 35\u00b0C on September 26?",
+   "city": "taipei",
+   "target_date": "2026-09-26",
+   "market": "94.1-95.9F",
+   "side": "NO",
+   "market_price": 0.38,
+   "model_prob": 0.0328,
+   "edge": 0.3472,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.28,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  },
+  {
+   "market_id": "4942783",
+   "question": "Will the highest temperature in Madrid be 31\u00b0C on September 27?",
+   "city": "madrid",
+   "target_date": "2026-09-27",
+   "market": "86.9-88.7F",
+   "side": "NO",
+   "market_price": 0.475,
+   "model_prob": 0.2049,
+   "edge": 0.2701,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 2.29,
+   "stake_usd": 4.0,
+   "status": "REJECTED_DAILY_SPEND"
+  },
+  {
+   "market_id": "4879509",
+   "question": "Will the highest temperature in San Francisco be between 70-71\u00b0F on September 25?",
+   "city": "san francisco",
+   "target_date": "2026-09-25",
+   "market": "70-71F",
+   "side": "NO",
+   "market_price": 0.52,
+   "model_prob": 0.123,
+   "edge": 0.397,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.78,
+   "stake_usd": 4.0,
+   "status": "REJECTED_DAILY_SPEND"
+  },
+  {
+   "market_id": "4906412",
+   "question": "Will the highest temperature in Mexico City be 26\u00b0C on September 26?",
+   "city": "mexico city",
+   "target_date": "2026-09-26",
+   "market": "77.9-79.7F",
+   "side": "NO",
+   "market_price": 0.465,
+   "model_prob": 0.1393,
+   "edge": 0.3257,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.85,
+   "stake_usd": 4.0,
+   "status": "REJECTED_DAILY_SPEND"
+  },
+  {
+   "market_id": "4900026",
+   "question": "Will the lowest temperature in Paris be 14\u00b0C on September 26?",
+   "city": "paris",
+   "target_date": "2026-09-26",
+   "market": "56.3-58.1F",
+   "side": "NO",
+   "market_price": 0.47,
+   "model_prob": 0.1393,
+   "edge": 0.3307,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.29,
+   "stake_usd": 4.0,
+   "status": "REJECTED_DAILY_SPEND"
+  }
+ ]
+}
