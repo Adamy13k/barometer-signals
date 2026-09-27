@@ -1,0 +1,26 @@
+{
+ "generated": "2026-09-27T03:30:01+00:00",
+ "run": "2026-09-26",
+ "counts": {
+  "modeled": 7,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "4942168",
+   "question": "Will the lowest temperature in Shanghai be 25\u00b0C on September 27?",
+   "city": "shanghai",
+   "target_date": "2026-09-27",
+   "market": "76.1-77.9F",
+   "side": "NO",
+   "market_price": 0.375,
+   "model_prob": 0.2377,
+   "edge": 0.1373,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.15,
+   "stake_usd": 2.62,
+   "status": "PAPER"
+  }
+ ]
+}
