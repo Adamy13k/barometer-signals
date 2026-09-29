@@ -1,0 +1,26 @@
+{
+ "generated": "2026-09-29T03:30:01+00:00",
+ "run": "2026-09-28",
+ "counts": {
+  "modeled": 20,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "5012488",
+   "question": "Will the highest temperature in Madrid be 27\u00b0C on September 29?",
+   "city": "madrid",
+   "target_date": "2026-09-29",
+   "market": "79.7-81.5F",
+   "side": "NO",
+   "market_price": 0.315,
+   "model_prob": 0.0492,
+   "edge": 0.2658,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.68,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  }
+ ]
+}
