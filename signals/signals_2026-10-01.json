@@ -1,0 +1,26 @@
+{
+ "generated": "2026-10-02T03:30:02+00:00",
+ "run": "2026-10-01",
+ "counts": {
+  "modeled": 8,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "5148212",
+   "question": "Will the highest temperature in Shanghai be 25\u00b0C on October 2?",
+   "city": "shanghai",
+   "target_date": "2026-10-02",
+   "market": "76.1-77.9F",
+   "side": "NO",
+   "market_price": 0.285,
+   "model_prob": 0.0164,
+   "edge": 0.2686,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.39,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  }
+ ]
+}
