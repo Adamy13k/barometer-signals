@@ -1,0 +1,26 @@
+{
+ "generated": "2026-10-05T03:30:02+00:00",
+ "run": "2026-10-04",
+ "counts": {
+  "modeled": 11,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "5225434",
+   "question": "Will the highest temperature in Moscow be 13\u00b0C on October 5?",
+   "city": "moscow",
+   "target_date": "2026-10-05",
+   "market": "54.5-56.3F",
+   "side": "NO",
+   "market_price": 0.595,
+   "model_prob": 0.4344,
+   "edge": 0.1606,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.39,
+   "stake_usd": 3.25,
+   "status": "PAPER"
+  }
+ ]
+}
