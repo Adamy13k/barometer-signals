@@ -1,0 +1,26 @@
+{
+ "generated": "2026-10-06T03:30:01+00:00",
+ "run": "2026-10-05",
+ "counts": {
+  "modeled": 13,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "5266750",
+   "question": "Will the highest temperature in Taipei be 26\u00b0C on October 6?",
+   "city": "taipei",
+   "target_date": "2026-10-06",
+   "market": "77.9-79.7F",
+   "side": "NO",
+   "market_price": 0.405,
+   "model_prob": 0.2541,
+   "edge": 0.1509,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 2.59,
+   "stake_usd": 3.41,
+   "status": "PAPER"
+  }
+ ]
+}
