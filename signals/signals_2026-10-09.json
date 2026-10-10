@@ -1,0 +1,26 @@
+{
+ "generated": "2026-10-10T03:30:02+00:00",
+ "run": "2026-10-09",
+ "counts": {
+  "modeled": 23,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "5396735",
+   "question": "Will the lowest temperature in Chengdu be 20\u00b0C on October 9?",
+   "city": "chengdu",
+   "target_date": "2026-10-09",
+   "market": "67.1-68.9F",
+   "side": "NO",
+   "market_price": 0.725,
+   "model_prob": 0.3115,
+   "edge": 0.4135,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.24,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  }
+ ]
+}
