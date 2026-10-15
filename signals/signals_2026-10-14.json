@@ -1,0 +1,26 @@
+{
+ "generated": "2026-10-15T03:30:02+00:00",
+ "run": "2026-10-14",
+ "counts": {
+  "modeled": 9,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "5642151",
+   "question": "Will the highest temperature in Guangzhou be 33\u00b0C on October 15?",
+   "city": "guangzhou",
+   "target_date": "2026-10-15",
+   "market": "90.5-92.3F",
+   "side": "NO",
+   "market_price": 0.405,
+   "model_prob": 0.1967,
+   "edge": 0.2083,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.92,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  }
+ ]
+}
