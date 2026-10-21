@@ -1,0 +1,56 @@
+{
+ "generated": "2026-10-21T03:30:02+00:00",
+ "run": "2026-10-20",
+ "counts": {
+  "modeled": 19,
+  "taken": 3,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "5878047",
+   "question": "Will the highest temperature in Buenos Aires be 21\u00b0C on October 20?",
+   "city": "buenos aires",
+   "target_date": "2026-10-20",
+   "market": "68.9-70.7F",
+   "side": "NO",
+   "market_price": 0.59,
+   "model_prob": 0.0984,
+   "edge": 0.4916,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.83,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  },
+  {
+   "market_id": "5914142",
+   "question": "Will the highest temperature in Singapore be 33\u00b0C on October 21?",
+   "city": "singapore",
+   "target_date": "2026-10-21",
+   "market": "90.5-92.3F",
+   "side": "NO",
+   "market_price": 0.515,
+   "model_prob": 0.3361,
+   "edge": 0.1789,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 2.11,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  },
+  {
+   "market_id": "5958420",
+   "question": "Will the highest temperature in Shanghai be 21\u00b0C on October 22?",
+   "city": "shanghai",
+   "target_date": "2026-10-22",
+   "market": "68.9-70.7F",
+   "side": "NO",
+   "market_price": 0.505,
+   "model_prob": 0.2131,
+   "edge": 0.2919,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.45,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  }
+ ]
+}
