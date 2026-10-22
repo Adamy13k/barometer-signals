@@ -1,0 +1,26 @@
+{
+ "generated": "2026-10-22T03:30:02+00:00",
+ "run": "2026-10-21",
+ "counts": {
+  "modeled": 27,
+  "taken": 1,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "5958588",
+   "question": "Will the highest temperature in Beijing be 17\u00b0C on October 22?",
+   "city": "beijing",
+   "target_date": "2026-10-22",
+   "market": "61.7-63.5F",
+   "side": "NO",
+   "market_price": 0.505,
+   "model_prob": 0.0656,
+   "edge": 0.4394,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.39,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  }
+ ]
+}
