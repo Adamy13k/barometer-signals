@@ -1,0 +1,56 @@
+{
+ "generated": "2026-10-24T03:30:02+00:00",
+ "run": "2026-10-23",
+ "counts": {
+  "modeled": 28,
+  "taken": 3,
+  "signals_untaken": 0
+ },
+ "signals": [
+  {
+   "market_id": "6003756",
+   "question": "Will the highest temperature in Moscow be 11\u00b0C on October 23?",
+   "city": "moscow",
+   "target_date": "2026-10-23",
+   "market": "50.9-52.7F",
+   "side": "NO",
+   "market_price": 0.45,
+   "model_prob": 0.3115,
+   "edge": 0.1385,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.48,
+   "stake_usd": 2.43,
+   "status": "PAPER"
+  },
+  {
+   "market_id": "6005154",
+   "question": "Will the highest temperature in Atlanta be between 74-75\u00b0F on October 23?",
+   "city": "atlanta",
+   "target_date": "2026-10-23",
+   "market": "74-75F",
+   "side": "NO",
+   "market_price": 0.32,
+   "model_prob": 0.0492,
+   "edge": 0.2708,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.43,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  },
+  {
+   "market_id": "6075856",
+   "question": "Will the highest temperature in London be 15\u00b0C on October 25?",
+   "city": "london",
+   "target_date": "2026-10-25",
+   "market": "58.1-59.9F",
+   "side": "NO",
+   "market_price": 0.275,
+   "model_prob": 0.123,
+   "edge": 0.152,
+   "ensemble_members": 122,
+   "ensemble_spread_f": 1.86,
+   "stake_usd": 4.0,
+   "status": "PAPER"
+  }
+ ]
+}
